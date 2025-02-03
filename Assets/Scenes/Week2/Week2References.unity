@@ -150,6 +150,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lightwewanttochange: {fileID: 1712445436}
   lightmovedirection: {x: -1, y: 0, z: 0}
+  isitorisntit: 1
 --- !u!4 &220925811
 Transform:
   m_ObjectHideFlags: 0
